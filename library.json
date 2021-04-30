@@ -2,7 +2,7 @@
     "name": "Spartan2",
     "keywords": "begin,read,writeAddr",
     "description": "Arduino Library for Spartan 2 oem i2c lsu 4.9 O2 sensor",
-    "repository":
+    "repository": "https://github.com/gaetanc-dev/spartan2"
     {
       "type": "",
       "url": ""

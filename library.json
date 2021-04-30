@@ -1,0 +1,29 @@
+{
+    "name": "Spartan2",
+    "keywords": "begin,read,writeAddr",
+    "description": "Arduino Library for Spartan 2 oem i2c lsu 4.9 O2 sensor",
+    "repository":
+    {
+      "type": "",
+      "url": ""
+    },
+    "authors": 
+    [
+      {
+        "name": "Gaetan Caron",
+        "email": "gaetan.gc.caron@gmail.com",
+        "url": "",
+        "maintainer": true
+      }
+    ],
+    "dependencies":
+    {
+      "name": "Wire",
+      "authors": "Nicholas Zambetti",
+      "frameworks": "arduino"
+    },
+    "version": "1.0.1",
+    "frameworks": "arduino",
+    "platforms": "AVR,ESP32"
+  }
+  

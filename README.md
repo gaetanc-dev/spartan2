@@ -1,4 +1,4 @@
-# spartan2
+# Spartan2
 
 esp32,esp8266,avr arduino library
 

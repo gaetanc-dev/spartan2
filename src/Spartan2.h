@@ -11,8 +11,8 @@
  * Data from Spartam-2-OEM-I2C is diplayed on the Arduino IDE Serial Monitor
  *
  */
-#ifndef spartan2
-#define spartan2 .h
+#ifndef Spartan2
+#define Spartan2 .h
 
 #include <Wire.h>
 #define Spartan2_DEBUG 0

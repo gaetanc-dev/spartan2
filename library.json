@@ -4,8 +4,8 @@
     "description": "Arduino Library for Spartan 2 oem i2c lsu 4.9 O2 sensor",
     "repository": "https://github.com/gaetanc-dev/spartan2"
     {
-      "type": "",
-      "url": ""
+      "type": "git",
+      "url": "https://github.com/gaetanc-dev/spartan2"
     },
     "authors": 
     [

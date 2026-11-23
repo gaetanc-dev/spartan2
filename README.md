@@ -1,6 +1,6 @@
 # Spartan2
 
-Arduino / PlatformIO library for the [Spartan 2 OEM I2C](https://www.14point7.com/products/spartan-lambda-controller-2https://www.14point7.com/products/spartan-2-oem)
+Arduino / PlatformIO library for the [Spartan 2 OEM I2C](https://www.14point7.com/products/spartan-2-oem)
 wideband O2 sensor controller from 14point7.
 
 The library reads the 6-byte I2C frame and converts it into lambda, AFR, O2

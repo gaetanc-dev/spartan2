@@ -1,13 +1,14 @@
 {
     "name": "Spartan2",
-    "keywords": "begin,read,writeAddr",
-    "description": "",
-    "repository": 
+    "version": "1.0.2",
+    "description": "Arduino library for the 14point7 Spartan 2 OEM I2C wideband O2 sensor controller (lambda, AFR, O2 and temperature over I2C).",
+    "keywords": "begin,read,writeAddr,lambda,afr,o2,sensor,i2c",
+    "repository":
     {
       "type": "git",
-      "url": "http://github.com/gaetanc-dev/spartan2"
+      "url": "https://github.com/gaetanc-dev/spartan2.git"
     },
-    "authors": 
+    "authors":
     [
       {
         "name": "Gaetan Caron",
@@ -16,14 +17,6 @@
         "maintainer": true
       }
     ],
-    "dependencies":
-    {
-      "name": "Wire",
-      "authors": "Nicholas Zambetti",
-      "frameworks": "arduino"
-    },
-    "version": "1.0.1",
     "frameworks": "arduino",
-    "platforms": "AVR,ESP32"
-  }
-  
+    "platforms": "atmelavr, espressif32, espressif8266"
+}
